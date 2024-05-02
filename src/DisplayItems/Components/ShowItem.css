@@ -1,0 +1,33 @@
+.div-showItems{
+
+    height: 18rem;
+       width:100%;
+}
+.div-task{
+    border-bottom: 2px solid white;
+    height: 3.5rem;
+    display: grid;
+    grid-template-columns: 0.5fr 2fr 0.3fr;
+   ;
+}
+.div-task .circle{
+    width: 22px;
+    height: 22px;
+    border-radius: 22px;
+ margin-top: 20%;
+ margin-left: 20%;
+    border: 1px solid GREY;
+    cursor: pointer;
+}
+.div-task .para{
+    margin-top:2%;
+    margin-left: -8%;
+}
+.div-task .close{
+    font-size: 25px;
+    color:rgb(182, 182, 182);
+    margin-top: 25%;
+    font-weight: 100;
+    opacity: 0.3;
+    cursor: pointer;
+}

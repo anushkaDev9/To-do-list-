@@ -1,0 +1,23 @@
+.div-Navigation{
+    width:100%;
+    display: grid;
+    grid-template-columns:1fr 2fr 1fr;
+    height: 2.5rem;
+    font-size: 15px;
+   
+}
+.div-Navigation div p{
+    margin-top: 15%;
+    cursor: pointer;
+    margin-left: 3.5%;
+    
+}
+.div-Navigation div ul{
+    list-style-type: none;
+    margin-top: 7%;
+}
+.div-Navigation div ul li{
+    float: left;
+    padding-right: 0.6rem;
+    cursor: pointer;
+}

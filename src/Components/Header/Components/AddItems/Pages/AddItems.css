@@ -1,0 +1,34 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+.div-addItems{
+    background-color:   hsl(235, 24%, 19%);
+    width:25%;
+    margin-top: 8%;
+    margin-left: 37%;
+    height: 3rem;
+    border-radius: 5px;
+     font-family: "Josefin Sans", sans-serif;
+}
+.div-addItems ul{
+    list-style-type: none;
+   
+}
+.div-addItems ul li{
+    float: left;
+     margin-top: 3%;
+}
+.div-addItems ul li .circle{
+    width: 22px;
+    height: 22px;
+    border-radius: 22px;
+   margin-left: -55%;
+    border: 1px solid GREY;
+}
+.div-addItems .add-items-input{
+    background-color:   hsl(235, 24%, 19%);
+    border: none;
+    color:rgb(224, 224, 224);
+     font-family: "Josefin Sans", sans-serif;
+     font-size: 18px;
+     margin-top: 1.5%;
+     width: 200%;
+}

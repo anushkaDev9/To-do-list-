@@ -1,0 +1,13 @@
+.div-displayItems{
+    background-color:   hsl(235, 24%, 19%);
+    position: absolute;
+    margin-top: 12%;
+    width:25%;
+     height: 20.5rem;
+    margin-left: 37%;
+box-shadow: rgba(0, 0, 0, 0.45) 0px 25px 20px -20px;
+border-radius: 5px;
+color:rgb(224, 224, 224);
+
+
+}

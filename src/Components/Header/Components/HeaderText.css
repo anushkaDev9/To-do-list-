@@ -1,0 +1,20 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans:ital,wght@0,100..700;1,100..700&display=swap');
+.div-headerText{
+    position: absolute;
+    top:20%;
+    width:25%;
+    margin-left: 37%;
+    font-family: "Josefin Sans", sans-serif;
+    color: white;
+    
+}
+.div-headerText .brightness-icon{
+    margin-left: 55%;
+    margin-top: -2%;
+    cursor: pointer;
+}
+.div-headerText p{
+    font-size: 30px;
+    letter-spacing: 1rem;
+    
+}
